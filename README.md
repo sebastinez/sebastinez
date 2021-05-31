@@ -1,6 +1,6 @@
 ## Bienvenido
 
-Mi name is Sebastian Martinez, one day I got stuck with sebastinez.
+My name is Sebastian Martinez, one day I got stuck with sebastinez.
 
 I'm a mechanical engineer who works currently at [NUCLEARIS](https://nuclearis.com), where I have the pleasure to develop and maintain a variety of software projects, besides my normal activity. Mostly decentralized PoC and MVPs.
 
